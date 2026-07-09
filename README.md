@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sridharan%20BR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20%2F%20MERN%20Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sridharan%20BR&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://github.com/SridharanRameshbabu">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sridharan+%F0%9F%91%8B;B.Sc+Computer+Science+Graduate;React.js+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Web+Apps" alt="Typing SVG" />
